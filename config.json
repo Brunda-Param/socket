@@ -1,0 +1,7 @@
+{
+    "messageDB": {
+        "URL": "http://admin:itsparam@22@playground.paramwallet.com:5984",
+        "dbName": "webhook"
+    },
+    "port":3000
+}
